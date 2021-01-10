@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\01\source\repos\v2.0\Header.h(39,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\01\source\repos\v2.0\Source.cpp(41,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  v2.0.cpp
+C:\Users\01\source\repos\v2.0\Header.h(39,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  v2.0.vcxproj -> C:\Users\01\source\repos\v2.0\Debug\v2.0.exe
