@@ -23,6 +23,6 @@ O2:<br>
 100000 class skirstymas uztruko: 0.0517234 s<br>
 1000000 struct skirstymas uztruko: 0.492131 s<br>
 1000000 class skirstymas uztruko: 0.498312 s<br>
-v1.2: v1.2 buvo atlikti atitinkami pakeitimas pagal "Rule of three". Realizuotas destruktorius. Pridėtas kopijavimo konstruktorius ir kopijavimo priskyrimo operatorius.<br>
+v1.2 Buvo atlikti atitinkami pakeitimas pagal "Rule of three". Realizuotas destruktorius. Pridėtas kopijavimo konstruktorius ir kopijavimo priskyrimo operatorius.<br>
 v1.5 Sukurta bazinė abstrakčioji klasė Asmuo ir iš jos išvesta Studentas klasė. Paruoštas cmake CMakeLists.txt (tą reikėjo atlikti v1.0).<br>
 v2.0 Sudokumentuota su doxygen
